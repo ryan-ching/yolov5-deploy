@@ -1,0 +1,18 @@
+Color Chip - Black
+Color Chip - White
+Color Chip - Light Grey
+Color Chip - Dark Grey
+Color Chip - Grey
+Color Chip - Red
+Color Chip - Orange
+Color Chip - Yellow
+Color Chip - Light Green
+Color Chip - Dark Green
+Color Chip - Light Blue
+Color Chip - Dark Blue
+Color Chip - Purple
+Color Chip - Pink
+Color Chip - Brown
+Zoomed in Cut - Texture Light
+Zoomed in Cut - Texture Dark
+Zoomed in Cut - Object
