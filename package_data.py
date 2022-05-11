@@ -10,7 +10,7 @@ def run_detections(model, image_filename, image_in_folder, model_train_image_siz
                            image_out_folder, pred_type='max', save_images=False):
 
     imgs = [f for f in glob.glob(image_in_folder+'*.jpg')]
-    imgs.append([f for f in glob.glob(image_in_folder+'*.png')])
+    imgs.extend([f for f in glob.glob(image_in_folder+'*.png')])
     results_all = model(imgs, size=model_train_image_size)
 
     labelcut_list = []
